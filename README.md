@@ -47,7 +47,7 @@ gradle installDist
 
 Переходим в каталог .\build\install\Zadan1 вызовом команды 
 ```
-cd .\build\install\Zadan1 
+cd .\build\install\Testing-Zad
 ```
 
 В папке bin хранятся сгенерированные gradle бинарные файлы. В папке examplesOfInputFiles находится пример входного файла с 
@@ -56,5 +56,5 @@ examplesOfInputFiles.
 
 Чтобы запустить программу выполним в консоли следующую команду: 
 ```
-bin\Zadan1 < examplesOfInputFiles\STDIN.txt
+bin\Testing-Zad < examplesOfInputFiles\STDIN.txt
 ```
