@@ -1,7 +1,6 @@
 apply plugin: "application"
-
 sourceCompatibility = 1.7
-mainClassName = "com.xparovozx.Zadan1"
+mainClassName = "com.xparovozx.Zadan1.Zadan1"
 
 applicationDistribution.from("src/main/resources") {
     into "examplesOfInputFiles"

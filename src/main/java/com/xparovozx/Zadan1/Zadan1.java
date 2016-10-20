@@ -4,7 +4,7 @@
 package com.xparovozx.Zadan1;
 
 import java.util.Scanner;
-import java.util.List;
+import java.util.List;.git/info/exclude
 
 public class Zadan1 {
 
